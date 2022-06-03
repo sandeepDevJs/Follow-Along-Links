@@ -1,4 +1,4 @@
-# Follow along links (Day 20 Of 30 days of JS)
+# Follow along links (Day 19 Of 30 days of JS)
 
 ## follow the arrow when on links
 
